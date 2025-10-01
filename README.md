@@ -9,5 +9,5 @@ Para testar a autenticação:
 <br>
 
 *Como USUÁRIO:
-<p>Email: teste1@email.com</p>
+<p>Email: comum@teste.com</p>
 <p>Senha: 123456</p>
